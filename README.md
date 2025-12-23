@@ -13,6 +13,7 @@
 - The 3X3 Board: 
 - A B C E
 - S F C S
+- A D E E
 ### Approach 3: Backtracking
 - Oops, wrong path! Let me undo and try another way
 - Uses # to mark visited cells
