@@ -10,9 +10,9 @@
 - Let me go as deep as possible before backing up
 - Follows one path to the end
 - Example path: S(1,3) → E(2,3) → E(2,2) then backtracks
-- The 3X3 Board: A B C E
--                S F C S
--                A D E E
+- The 3X3 Board: 
+- A B C E
+- S F C S
 ### Approach 3: Backtracking
 - Oops, wrong path! Let me undo and try another way
 - Uses # to mark visited cells
